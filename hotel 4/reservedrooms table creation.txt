@@ -1,0 +1,1 @@
+ create table reservedrooms (nationalcode varchar2(15),pfullname varchar2(20),mobile varchar2(13),ipay number,resdays number(2),rdatetime varchar2(20),roomno number(4));
